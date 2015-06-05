@@ -1,0 +1,5 @@
+name = Ajax Loader
+description = Module to Load Articles in a view
+package = Epicodus Examples
+core = 7.x
+files[] = ajaxview.module
